@@ -1,3 +1,56 @@
+<div align="center">
+
+# 🕵️‍♂️ **Deep-Fake Detector** 🎥
+
+**An Advanced Platform for Detecting Deep-Fake Photos and Videos**
+
+</div>
+
+---
+
+## 🛠️ **Tech Stack**
+
+- **Machine Learning Algorithms:** XceptionNet  
+- **Libraries:** Scikit-Learn, OpenCV, NLP  
+- **Frontend:** React  
+- **Backend:** Python, Streamlit  
+- **Blockchain:** Solidity for Authentication  
+
+---
+
+## 🚀 **Features**
+
+- 🖼️ **Deepfake Detection** for Images and Videos.  
+- 📊 **Frame-Wise Classification** Using XceptionNet ML Algorithm.  
+- 💻 **React Landing Page** for Seamless User Experience.  
+- 🔗 **Blockchain Authentication** for Secure Verification.  
+- 💬 **Chatbot Support** for User Assistance.  
+- 🛠️ **Streamlit UI** for Easy Interaction and Analysis.  
+
+---
+
+## 💡 **Description**
+
+This platform uses the **XceptionNet Machine Learning Algorithm** to analyze videos and photos for deepfake detection. The tool processes videos frame by frame to provide accurate classification results. A React-based landing page provides a smooth interface, while blockchain technology (Solidity) ensures secure authentication. Additionally, chatbot support is integrated to assist users effectively.
+
+---
+
+## 💬 **Contact Me for Help**
+
+📧 **Email:** [101rishidsr@gmail.com](mailto:101rishidsr@gmail.com)
+
+---
+
+<div align="center">
+
+🔥 **Thank you for checking out the Deep-Fake Detector!** 🔥
+
+</div>
+
+
+
+
+
 ![6239974203164049664](https://github.com/user-attachments/assets/fb172cca-f410-424b-9275-ad52a5a16154)
 
 ![6239974203164049659](https://github.com/user-attachments/assets/578f1916-cf85-4ffc-8572-168cc617422a)
